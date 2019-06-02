@@ -7,7 +7,13 @@ function whisper(string) {
 }
 function sayHiToGrandma(string) {
   return "I can\'t hear you!";
-}  
-  console.log("YES INDEED!");
+}
+function sayHiToGrandma(string) {
+  var uppercase = "HELLO!";
+  if(uppercase.toUpperCase() === uppercase){
+    return true;
+  }
+}
+  
 
 
