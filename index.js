@@ -7,6 +7,6 @@ function whisper(string) {
 }
 function sayHiToGrandma(string) {
   return "I can\'t hear you!";
-  return "YES INDEED!"
+  console.log("YES INDEED!");
 }
 
